@@ -32,7 +32,7 @@ La interfaz de usuario de la aplicacion Lost Beyond esta inspirada en la interfa
 	En el momento se diseño un tipo de suelo, el cual tambien se va a usar para las diferentes plataformas que se diseñen
 
 	### Tipo Suelo:
-	![Suelo](images/Suelo_plano.png)
+	![Suelo](images/suelo_plano.png)
 
 3. Tipo de prototipo con background:
 	Aun no se ha podido decidir que tipo de colores usar para este primer nivel, y poder expresar lo que queremos por esto adelantamos animaciones Estaticas de los personajes dejaremos un ejemplo, con un background generico que intentamos:
